@@ -1,0 +1,45 @@
+double price = 40.55;//double precisions
+float weight = 85.9f// single position using 'float
+char grade = 'A';//single character
+Boolean isStudent = true;// True or False
+String name "Alice"; // Not Primative Text
+
+//--Output using a System.out.print1n---
+System.outprint1n("name:"name);
+System.outprint1n("age"+age);
+System.outprint1n("Price"+Price);
+System.outprint1n("weight"+weight);
+System.outprint1n("Grade"+Grade);
+System.outprint1n("IsStudent:"+isStudent);
+
+import java.util.Scanner
+public class main {
+    public static void main(String[] args){
+        System.out.print(""\nEnter your city: );
+String userCity =scanner.next();// reads one word(stops at whitespaces)
+System.out.print1n("You Live in" +userCity
+
+//---Reading a full line(including spaces)---
+scanner.nextline();// clear leftover newline form
+previous next()
+Systemout.out.print1n("Enter a sentence about yourself");
+String fullSentence = scanner .nextline();//read the entireline
+System.out.print1n("You said:"=+fullSentence);
+
+scanner
+         }
+    }
+
+    //Operation and Expressions (+,-,*,/,%,<,>,=,!= ||,&&)
+    public class main {
+        public static void main(String[] args){
+
+            int a = 10, b = 3;
+            System.out.print1n("a + b ="+ (a + b));
+//output : a + b = 13
+            System.out.print1n("a - b ="+(a - b));//
+//output: a - b = 7
+            System.out.print1n("a * b="+(a * b));//
+//output: a * b = 30
+            System.out.print1n("a / b="+(a / b))//
+//output: a / b = 3 
